@@ -51,7 +51,7 @@ Kemudian Import Database di dalam folder database
 
 
 
-## Demo
+## Demo [Live Demo](https://www.farisrasyid.my.id/demoapprt)
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1041961141594759178/1111299268968460358/image.png)
 
